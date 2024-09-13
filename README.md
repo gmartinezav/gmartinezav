@@ -1,9 +1,19 @@
-## Hi there 👋
+## ![Banner presentacion](github-header-image.png)
 
-<!--
-**gmartinezav/gmartinezav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ciencias de la computación
+|Interés en el análisis de datos y Machine learning| katarenai 😌✋
+***
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/geronimo-martínez-ávila-41b159329)
+[!https://www.kaggle.com/geronimohxeros] (![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white))
 
-Here are some ideas to get you started:
+## 🩻 Datos rapidos sobre mí:
+
+- 🌱 Estoy aprendiendo nuevas técnicas de **análisis y visualización de datos** en **python**
+- 📫 contacto: gmartinezav@unal.edu.co
+- ⚡ : El que entre a ciencias de la computacion abandone toda esperanza 
+<img src = "https://media.giphy.com/media/110YfuwtzXGaaI/giphy.gif?cid=ecf05e470o3nw9yld7k8fd0oc8p8xr27068d6q29fcz9b3yd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width  =200 >
+## algunas Herramientas 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
