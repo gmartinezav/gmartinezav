@@ -4,7 +4,7 @@ Estudiante de Ciencias de la computación
 |Interés en el análisis de datos y Machine learning| katarenai 😌✋
 ***
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/geronimo-martínez-ávila-41b159329)
-[!https://www.kaggle.com/geronimohxeros] (![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white))
+[!https://www.kaggle.com/geronimohxeros] ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ## 💀 Datos rapidos sobre mí:
 
